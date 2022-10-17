@@ -1,0 +1,21 @@
+--- a/scripts/zg-policy-rc.d.pod
++++ b/scripts/zg-policy-rc.d.pod
+@@ -1,6 +1,6 @@
+ =head1 NAME
+ 
+-zg-policy-rc.d - preliminary manpage
++zg-policy-rc.d - allows flexible handling of policy-rc.d
+ 
+ =head1 DOCUMENTATION
+ 
+@@ -24,6 +24,10 @@ one it finds.
+ 
+ Many. Be prepared to debug.
+ 
++=head1
++
++invoke-rc.d(8)
++
+ =head1 AUTHOR
+ 
+ Marc Haber <mh+debian-packages@zugschlus.de>

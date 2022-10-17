@@ -1,0 +1,8 @@
+--- a/scripts/zg-policy-rc.d
++++ b/scripts/zg-policy-rc.d
+@@ -1,4 +1,4 @@
+-#!/bin/bash
++#!/bin/sh
+ 
+ CONFFILE="/etc/zg-policy-rc.d.conf"
+ 
